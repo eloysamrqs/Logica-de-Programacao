@@ -1,7 +1,0 @@
-Algoritmo Finalizar_Ambiente
-
-Inicio
-
-
-
-Fim
